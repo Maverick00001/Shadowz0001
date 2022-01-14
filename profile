@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shadowz</h1>
-<h3 align="center">A passionate Backend and Frontend developer from India, with lot of experience. I also Many programming languages too!</h3>
+<h3 align="center">A passionate Backend and Frontend developer from India, with lot of experience. I also know Many programming languages too!</h3>
 
 - 🔭 I’m currently working on **Ace-Knight ( Discord Bot )**
 
